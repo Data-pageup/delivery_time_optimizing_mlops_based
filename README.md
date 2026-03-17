@@ -44,7 +44,7 @@ mlops-delivery-project/
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 **Task:** Regression — predict `Delivery_Time_min` for incoming orders.
 
@@ -56,7 +56,7 @@ mlops-delivery-project/
 
 ---
 
-## 🗺️ MLOps Phases (9 phases, 19 steps)
+##  MLOps Phases (9 phases, 19 steps)
 
 | Phase | Description | Steps | Status |
 |---|---|---|---|
