@@ -63,13 +63,13 @@ mlops-delivery-project/
 |---|---|---|---|
 | 1 | Planning & Setup | 1–3 | ✅ Done |
 | 2 | Experimentation (Notebooks) | 4–7 | ✅ Done |
-| 3 | Production Code / Scripts | 8–10 | 🔜 Upcoming |
-| 4 | Model Deployment | 11–13 | 🔜 Upcoming |
-| 5 | Containerisation | 14 | 🔜 Upcoming |
-| 6 | Testing | 15 | 🔜 Upcoming |
-| 7 | CI/CD | 16 | 🔜 Upcoming |
-| 8 | Cloud Deployment | 17 | 🔜 Upcoming |
-| 9 | Monitoring & Maintenance | 18–19 | 🔜 Upcoming |
+| 3 | Production Code / Scripts | 8–10 | In-Progress |
+| 4 | Model Deployment | 11–13 | In-Progress |
+| 5 | Containerisation | 14 | In-Progress |
+| 6 | Testing | 15 | In-Progress |
+| 7 | CI/CD | 16 | In-Progress |
+| 8 | Cloud Deployment | 17 | In-Progress |
+| 9 | Monitoring & Maintenance | 18–19 | In-Progress |
 
 ---
 
