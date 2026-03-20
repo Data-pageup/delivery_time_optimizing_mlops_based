@@ -160,7 +160,7 @@ This project follows the **9-Phase MLOps Framework**:
 
 ```
 Phase 1: Planning & Setup
-Phase 2: Experimentation (Notebooks)   ← you are here
+Phase 2: Experimentation (Notebooks)   ← I am here
 Phase 3: Production Code (Scripts)
 Phase 4: Model Deployment
 Phase 5: Containerisation
