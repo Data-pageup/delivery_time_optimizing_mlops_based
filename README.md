@@ -120,6 +120,7 @@ conda activate mlops
 pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter ipykernel
 ```
 
+
 ### 3. Register Jupyter kernel
 ```bash
 python -m ipykernel install --user --name mlops --display-name "mlops (Python 3.10)"
