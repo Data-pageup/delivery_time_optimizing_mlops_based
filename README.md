@@ -1,4 +1,4 @@
-# 🛵 MLOps — Delivery Time Prediction
+# 🛵 MLOps Delivery Time Prediction
 
 > An end-to-end MLOps project that predicts food/package delivery times using machine learning.  
 > Built as a learning project following a structured 9-phase MLOps framework.
